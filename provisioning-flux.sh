@@ -37,6 +37,7 @@ VAE_MODELS=(
 )
 
 LORA_MODELS=(
+    "https://huggingface.co/rasyidrafi/lr-lora-train/resolve/main/lora.safetensors"
 )
 
 ESRGAN_MODELS=(
